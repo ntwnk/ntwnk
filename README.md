@@ -45,7 +45,7 @@ I'm currently seeking Graduate, Internship and Junior Software Engineer opportun
 ### 🌏 Travel Explorer
 A responsive travel web application built with Vue.js and TypeScript featuring authentication, role-based access, CRUD operations and Open-Meteo API integration.
 
-🔗 Repository: *(add link)*
+🔗 **Repository:** https://github.com/ntwnk/travel-explorer
 
 ---
 
