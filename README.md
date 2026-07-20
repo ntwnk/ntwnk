@@ -4,7 +4,7 @@ I'm a final-year Bachelor of Information and Communication Technology (Software 
 
 I'm passionate about building practical software solutions and enjoy developing full-stack web applications, exploring cloud technologies, and applying machine learning to solve real-world problems.
 
-I'm currently seeking Graduate, Internship and Junior Software Engineer opportunities across Australia.
+I'm currently seeking Graduate, Internship and Junior Software Engineer opportunities across Melbourne.
 
 ---
 
