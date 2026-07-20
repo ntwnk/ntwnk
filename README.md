@@ -49,11 +49,11 @@ A responsive travel web application built with Vue.js and TypeScript featuring a
 
 ---
 
-# 🏡 House Price Prediction
+## 🏡 House Price Prediction
 
-An end-to-end machine learning project using Python and scikit-learn to predict residential sale prices through exploratory data analysis, preprocessing, model comparison, evaluation, and deployment with Streamlit.
+An end-to-end machine learning project built with Python, scikit-learn, and Streamlit. The project demonstrates data preprocessing, exploratory data analysis, model comparison, and deployment through an interactive web application.
 
-> This project uses the Kaggle Ames Housing dataset from Ames, Iowa, USA. Predictions are shown in USD and are intended for demonstration purposes, not Australian property valuation.
+🔗 **Repository:** https://github.com/ntwnk/house-price-prediction
 
 ![House Price Prediction](https://raw.githubusercontent.com/ntwnk/house-price-prediction/main/images/streamlit_app.png)
 
