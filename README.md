@@ -55,7 +55,7 @@ An end-to-end machine learning project using Python and scikit-learn to predict 
 
 > This project uses the Kaggle Ames Housing dataset from Ames, Iowa, USA. Predictions are shown in USD and are intended for demonstration purposes, not Australian property valuation.
 
-![Streamlit Application](images/streamlit_app.png)
+![House Price Prediction](https://raw.githubusercontent.com/ntwnk/house-price-prediction/main/images/streamlit_app.png)
 
 ---
 
