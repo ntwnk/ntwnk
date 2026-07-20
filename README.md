@@ -49,10 +49,13 @@ A responsive travel web application built with Vue.js and TypeScript featuring a
 
 ---
 
-### 🏡 House Price Prediction
-Machine learning project using Python and Scikit-learn to predict housing prices through data analysis, feature engineering and model evaluation.
+# 🏡 House Price Prediction
 
-🔗 Repository: *(add link)*
+An end-to-end machine learning project using Python and scikit-learn to predict residential sale prices through exploratory data analysis, preprocessing, model comparison, evaluation, and deployment with Streamlit.
+
+> This project uses the Kaggle Ames Housing dataset from Ames, Iowa, USA. Predictions are shown in USD and are intended for demonstration purposes, not Australian property valuation.
+
+![Streamlit Application](images/streamlit_app.png)
 
 ---
 
