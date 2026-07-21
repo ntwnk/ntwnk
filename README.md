@@ -59,8 +59,12 @@ An end-to-end machine learning project built with Python, scikit-learn, and Stre
 
 ---
 
-### 💰 Personal Finance Tracker *(Coming Soon)*
-A full-stack finance management application built with Vue.js and SQL, allowing users to track income, expenses and budgets.
+### 💰 Personal Finance Tracker 
+Full-stack finance tracker with JWT authentication, CRUD operations, MySQL database, and an interactive dashboard built with Vue 3 and Node.js.
+
+**Tech:** Vue 3 • TypeScript • Express • MySQL • JWT • Chart.js
+
+🔗 **Repository:** https://github.com/ntwnk/personal-finance-tracker
 
 ---
 
